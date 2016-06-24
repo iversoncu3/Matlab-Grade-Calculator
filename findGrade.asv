@@ -1,0 +1,8 @@
+function [grade]=findGrade(averagePoint)
+
+if(averagePoint<50){
+    grade='F';
+    }
+else if(averagePoint>=5
+
+end

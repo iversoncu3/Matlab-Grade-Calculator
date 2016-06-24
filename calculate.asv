@@ -1,0 +1,9 @@
+function [ output_args ] = calculate( float  )
+%CALCULATE Summary of this function goes here
+%   Detailed explanation goes here
+float midterm;
+float final;
+float average;
+
+end
+
